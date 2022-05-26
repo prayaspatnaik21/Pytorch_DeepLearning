@@ -1,2 +1,2 @@
 # Pytorch_DeepLearning
-Learning Pytorchc
+Learning Pytorch
